@@ -6,10 +6,8 @@ Aplicación web que permite buscar información de cualquier país del mundo usa
  
 ## 📸 Vista previa
  
-> Agrega una captura de pantalla de tu proyecto aquí.  
-> En GitHub puedes arrastrar una ima<img width="800" height="848" alt="Screenshot 2026-04-05 230751" src="https://github.com/user-attachments/assets/1cdbdae3-d1b6-47c5-b131-fef3c788acf7" />
-gen directamente al README.
- 
+> 
+> <img width="800" height="848" alt="Screenshot 2026-04-05 230751" src="https://github.com/user-attachments/assets/1cdbdae3-d1b6-47c5-b131-fef3c788acf7" />
 ---
  
 ## 🚀 ¿Qué hace?
