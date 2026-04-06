@@ -27,6 +27,8 @@ async function buscar() {
             <div class="dato"><span>Capital</span><span>${p.capital[0]}</span></div>
             <div class="dato"><span>Población</span><span>${p.population.toLocaleString()}</span></div>
             <div class="dato"><span>Región</span><span>${p.region}</span></div>
+            <div class="dato"><span>Idioma</span><span>${Object.values(p.languages || {})[0] || "N/A"}</span></div>
+<div class="dato"><span>Moneda</span><span>${Object.values(p.currencies || {})[0]?.name || "N/A"}</span></div>
         </div>
 `;
   } catch (error) {
